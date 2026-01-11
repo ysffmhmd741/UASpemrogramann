@@ -93,7 +93,7 @@ nav {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('/image/herocontent.jpg');
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('/UASpemrogramann/image/herocontent.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
@@ -345,4 +345,5 @@ footer {
     /* height: 100%; <-- Hapus ini jika gambar jadi gepeng */
     object-fit: cover;
     align-self: stretch; /* Agar tinggi gambar menyesuaikan tinggi teks di kirinya */
+
 }
